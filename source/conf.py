@@ -33,7 +33,7 @@
 extensions = ['sphinx.ext.todo']
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['ytemplates']
+templates_path = ['templates']
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
@@ -46,8 +46,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Ninux Firenze'
-copyright = u'2018, edoput'
-author = u'edoput'
+copyright = u'CC0, Ninux Firenze'
+author = u'Ninux Firenze'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -93,7 +93,7 @@ html_theme = 'alabaster'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['ystatic']
+html_static_path = ['static']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
