@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{cerca:0,dei:0,moduli:0},titles:["Welcome to Ninux Firenze\u2019s documentation!"],titleterms:{document:0,firenz:0,indic:0,ninux:0,tabl:0,welcom:0}})
